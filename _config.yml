@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Philipp M. Lersch
+email: p.m.lersch@hu-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: @PMLersch
+github_username: pmlersch
 minimal_mistakes_skin: dirt
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Philipp M. Lersch"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am Associate Professor of Sociology of Social Policy in the Department of Social Sciences at Humboldt University of Berlin and Senior Research Fellow at the German Institute for Economic Research (DIW Berlin). My research group on personal wealth accumulation in couples is funded by the Emmy Noether Programme of the German Research Foundation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
