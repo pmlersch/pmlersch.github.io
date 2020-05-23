@@ -52,13 +52,16 @@ doi: [10.1111/jomf.12458](https://doi.org/10.1111/jomf.12458) | [Replication fil
 Lersch, Philipp M. & Dewilde, Caroline (2018): Homeownership, Saving and Financial Wealth: A Comparative and Longitudinal Analysis. *Housing Studies* 33 (8), 1175--1206.  
 doi: [10.1080/02673037.2018.1424803](https://doi.org/10.1080/02673037.2018.1424803) | [Replication files](http://osf.io/asdpy)
 
-Lersch, Philipp M., Jacob, Marita & Hank, Karsten (2018): Long-Term Health Consequences of Adverse Labor Market Conditions at Time of Leaving Education: Evidence from West German Panel Data. *Journal of Health and Social Behavior* 59 (1), 151--168.  
+Lersch, Philipp M., Jacob, Marita & Hank, Karsten (2018): Long-Term Health Consequences of Adverse Labor Market Conditions at Time of Leaving Education: Evidence from West German Panel Data. *Journal of Health and Social Behavior* 59 (1), 151--168. 
+
 doi: [10.1177/0022146517749848](https://doi.org/10.1177/0022146517749848) | [Replication files](http://osf.io/hn9pv)
 
 Lersch, Philipp M. & Kleiner, Sibyl (2018): Coresidential Union Entry and Changes in Commuting Times of Women and Men. *Journal of Family Issues* 39 (2). 383--405.  
+
 doi: [10.1177/\-0192513X16646146](http://dx.doi.org/10.1177/0192513X16646146) |
 
 Perales, Francisco, Lersch, Philipp M. & Baxter, Janeen (2018): Birth Cohort, Ageing and Gender Ideology: Lessons from British Panel Data. *Social Science Research* published online.  
+
 doi: [10.1016/j.ssresearch.2018.11.003](https://doi.org/10.1016/j.ssresearch.2018.11.003)|
 
 ### 2017

@@ -66,7 +66,7 @@ author:
       icon: "fa fa-link"
       url: "https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/team/1691159"
     - label: "Twitter"
-      icon: "fa fa-twitter-square fa"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pmlersch"
     - label: "ORCID"
       icon: "fab fa-orcid"
