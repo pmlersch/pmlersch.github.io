@@ -61,7 +61,7 @@ author:
   name   : "Philipp M. Lersch"
   avatar : "/assets/images/lersch_portrait_small.jpg"
   bio    : "I am a sociologist at Humboldt-Universität zu Berlin and DIW Berlin."
-  links
+  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pmlersch"
