@@ -8,8 +8,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Monograph
 
-Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life course effects in England and Germany, Life Course Research Series edited by Steffen Hillmert, Wiesbaden: Springer VS.  
-doi: [10.1007/978-3-658-04257-8](http://dx.doi.org/10.1007/978-3-658-04257-8) |
+Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life course effects in England and Germany, Life Course Research Series edited by Steffen Hillmert, Wiesbaden: Springer VS. doi: [10.1007/978-3-658-04257-8](http://dx.doi.org/10.1007/978-3-658-04257-8) |
 
 ## Journal articles
 
@@ -21,11 +20,9 @@ Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): 
 
 ### 2020
 
-Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review*. published online.  
-doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) | [Replication files](https://doi.org/10.17605/OSF.IO/836VM)
+Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review*. published online. doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) [Replication files](https://doi.org/10.17605/OSF.IO/836VM)
 
-Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* published online.  
-doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) | [Replication files](https://osf.io/7q9fk/)
+Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* published online. doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) [Replication files](https://osf.io/7q9fk/)
 
 Lersch, Philipp M. & Baxter, Janeen (2020): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* published online.  
 doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) | [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf)| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/)| [Replication files](https://osf.io/efh5x/)
