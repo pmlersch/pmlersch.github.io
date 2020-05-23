@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sociologist"
+  name   : " "
   avatar : "/assets/images/lersch_portrait_small.jpg"
-  bio    : "Humboldt-Universität zu Berlin & DIW Berlin."
+  bio    : "Sociologist at Humboldt-Universität zu Berlin and DIW Berlin."
   links:
     - label: "Website"
       icon: "fa fa-link"
@@ -72,10 +72,10 @@ author:
       icon: "fab fa-orcid"
       url: "http://orcid.org/0000-0003-3863-8301"  
     - label: "OSF"
-      icon: "ai ai-osf-square ai-2x"
+      icon: "ai ai-osf-square"
       url: "https://osf.io/y29xd/"      
     - label: "Google Scholar"
-      icon: " "
+      icon: "ai ai-google-scholar-square"
       url: "http://scholar.google.com/citations?user=602KhhQAAAAJ&hl=eng"
 
 footer:
