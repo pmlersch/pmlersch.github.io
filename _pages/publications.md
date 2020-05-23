@@ -3,11 +3,11 @@ permalink: /publications/
 title: "Publications"
 ---
 
-# Monograph
+## Monograph
 
 Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life course effects in England and Germany, Life Course Research Series edited by Steffen Hillmert, Wiesbaden: Springer VS. doi: 10.1007/978-3-658-04257-8 
 
-# Journal articles
+## Journal articles
 
 Tisch, Daria & Lersch, Philipp M. (Forthcoming): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family*.
 
