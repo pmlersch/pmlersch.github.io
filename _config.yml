@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Philipp M. Lersch -- Personal Website
+title: Philipp M. Lersch
 email: p.m.lersch@hu-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Philipp M. Lersch"
+  name   : "Sociologist"
   avatar : "/assets/images/lersch_portrait_small.jpg"
-  bio    : "Sociologist, Humboldt-Universität zu Berlin and DIW Berlin."
+  bio    : "Humboldt-Universität zu Berlin & DIW Berlin."
   links:
     - label: "Website"
       icon: "fa fa-link"
