@@ -8,25 +8,25 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Monograph
 
-Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life course effects in England and Germany, Life Course Research Series edited by Steffen Hillmert, Wiesbaden: Springer VS. doi: [10.1007/978-3-658-04257-8](http://dx.doi.org/10.1007/978-3-658-04257-8)
+Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life course effects in England and Germany, Life Course Research Series edited by Steffen Hillmert, Wiesbaden: Springer VS. | doi: [10.1007/978-3-658-04257-8](http://dx.doi.org/10.1007/978-3-658-04257-8) |
 
 ## Journal articles
 
-Tisch, Daria & Lersch, Philipp M. (Forthcoming): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family*.
+Tisch, Daria & Lersch, Philipp M. (Forthcoming): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family*. |
 
-Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography*.
+Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography*. |
 
 ### 2020
 
-Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review*. published online. doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) | [Replication files](https://doi.org/10.17605/OSF.IO/836VM)
+Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review*. published online. | doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) | [Replication files](https://doi.org/10.17605/OSF.IO/836VM)
 
-Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* published online. doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) | [Replication files](https://osf.io/7q9fk/)
+Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* published online. | doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) | [Replication files](https://osf.io/7q9fk/)
 
 Lersch, Philipp M. & Baxter, Janeen (2020): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* published online. doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) | [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf)| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/)| [Replication files](https://osf.io/efh5x/)
 	
 ### 2019
 
-Bayrakdar, Sait, Coulter, Rory, Lersch, Philipp M. & Vidal, Sergi (2019): Family events, parental background and young adults’ homeownership transitions in Britain and Germany. *Housing Studies*, 34 (6). 974--996. doi: [10.1080/02673037.2018.1509949](https://doi.org/10.1080/02673037.2018.1509949)
+Bayrakdar, Sait, Coulter, Rory, Lersch, Philipp M. & Vidal, Sergi (2019): Family events, parental background and young adults’ homeownership transitions in Britain and Germany. *Housing Studies*, 34 (6). 974--996.| doi: [10.1080/02673037.2018.1509949](https://doi.org/10.1080/02673037.2018.1509949)
 
 Lersch, Philipp M. (2019): Fewer Siblings, more Wealth? Sibship Size and Wealth Attainment. *European Journal of Population* 35 (5). 959--986. doi: [10.1007/s10680-018-09512-x](https://doi.org/10.1007/s10680-018-09512-x) | [Preprint](https://osf.io/preprints/socarxiv/9hy6x) | [Replication files](http://doi.org/10.17605/OSF.IO/S62ED)
 	
@@ -34,7 +34,7 @@ Uunk, Wilfred & Lersch, Philipp M. (2019): The effect of regional gender-role at
 
 Vidal, Sergi & Lersch, Philipp M. (2019): Changes in Gender Role Attitudes Following Couple’s Residential Relocations. *Demographic Research* 40 (39). 1111--1152. DOI: [10.4054/DemRes.2019.40.39 ](http://dx.doi.org/10.4054/DemRes.2019.40.39) | [Replication files](https://osf.io/v6nw8/)
 
-###2018
+### 2018
 
 Fulda, Barbara Elisabeth & Lersch, Philipp M.  (2018): Planning Until Death Do Us Part: Partnership Status and Financial Planning Horizon. *Journal of Marriage and Family*, 80 (2). 409--425. doi: [10.1111/jomf.12458](https://doi.org/10.1111/jomf.12458) | [Replication files](http://osf.io/grp8t)
 
