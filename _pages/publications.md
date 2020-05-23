@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+toc: Trude
 ---
 
 If you have problems accessing any of these publications, please [contact](/contact) me.
