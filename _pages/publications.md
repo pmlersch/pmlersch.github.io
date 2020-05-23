@@ -39,30 +39,29 @@ Lersch, Philipp M. & Kleiner, Sibyl (2018): Coresidential Union Entry and Change
 
 Perales, Francisco, Lersch, Philipp M. & Baxter, Janeen (2018): Birth Cohort, Ageing and Gender Ideology: Lessons from British Panel Data. *Social Science Research* published online. doi: [10.1016/j.ssresearch.2018.11.003](https://doi.org/10.1016/j.ssresearch.2018.11.003)
 
-Lersch, Philipp M. (2017): Individual Wealth and Subjective Financial Well-Being in Marriage: Resource Integration or Separation? *Journal of Marriage and Family* 79 (5). 1211--1223. doi: \href{http://dx.doi.org/10.1111/jomf.12406{10.1111/jomf.12406
+Lersch, Philipp M. (2017): Individual Wealth and Subjective Financial Well-Being in Marriage: Resource Integration or Separation? *Journal of Marriage and Family* 79 (5). 1211--1223. doi: [10.1111/jomf.12406](http://dx.doi.org/10.1111/jomf.12406)
 
-Lersch, Philipp M. (2017): The Marriage Wealth Premium Revisited: Gender Disparities and Within-Individual Changes in Personal Wealth in Germany. *Demography* 54 (3). 961--983. doi: 
-\href{http://dx.doi.org/10.1007/s13524-017-0572-4{10.1007/s13524-017-0572-4
+Lersch, Philipp M. (2017): The Marriage Wealth Premium Revisited: Gender Disparities and Within-Individual Changes in Personal Wealth in Germany. *Demography* 54 (3). 961--983. doi: [10.1007/s13524-017-0572-4](http://dx.doi.org/10.1007/s13524-017-0572-4)
 
 Lersch, Philipp M., Jacob, Marita & Hank, Karsten (2017): Parenthood, Gender and Personal Wealth. *European Sociological Review* 33 (3). 410--422. doi:
-\href{http://dx.doi.org/10.1093/esr/jcx046{10.1093/esr/jcx046
+[10.1093/esr/jcx046](http://dx.doi.org/10.1093/esr/jcx046)
 
-Lersch, Philipp M. & Uunk, Wilfred (2017): The Shadow of Future Homeownership: The Association of Wanting to Move into Homeownership with Labour Supply. *Work, Employment & Society* 31 (3). 522--541. doi: \href{http://dx.doi.org/10.1177/0950017016631443{10.1177/0950017016631443
+Lersch, Philipp M. & Uunk, Wilfred (2017): The Shadow of Future Homeownership: The Association of Wanting to Move into Homeownership with Labour Supply. *Work, Employment & Society* 31 (3). 522--541. doi: [10.1177/0950017016631443](http://dx.doi.org/10.1177/0950017016631443)
 
-Vidal, Sergi, Perales, Francisco, Lersch, Philipp M. & Brandén, Maria (2017): Family Migration in a Cross-National Perspective: The Importance of Within-Couple Employment Arrangements in Australia, Britain, Germany and Sweden. *Demographic Research* 36 (10) (Special Collection edited by Trude Lappegaard, Frances Goldscheider and Eva Bernhardt). 307--338. doi: \href{http://dx.doi.org/10.4054/DemRes.2017.36.10{10.4054/DemRes.2017.36.10
+Vidal, Sergi, Perales, Francisco, Lersch, Philipp M. & Brandén, Maria (2017): Family Migration in a Cross-National Perspective: The Importance of Within-Couple Employment Arrangements in Australia, Britain, Germany and Sweden. *Demographic Research* 36 (10) (Special Collection edited by Trude Lappegaard, Frances Goldscheider and Eva Bernhardt). 307--338. doi: [10.4054/DemRes.2017.36.10](http://dx.doi.org/10.4054/DemRes.2017.36.10)
 
-Wind, Barend, Lersch, Philipp M. & Dewilde, Caroline (2017): The distribution of housing wealth in 16 European countries: Accounting for institutional differences. *Journal of Housing and the Built Environment* 32 (4). 625-647. doi: \href{http://link.springer.com/article/10.1007/s10901-016-9540-3{10.1007/s10901-016-9540-3
+Wind, Barend, Lersch, Philipp M. & Dewilde, Caroline (2017): The distribution of housing wealth in 16 European countries: Accounting for institutional differences. *Journal of Housing and the Built Environment* 32 (4). 625-647. doi: [10.1007/s10901-016-9540-3](http://link.springer.com/article/10.1007/s10901-016-9540-3)
 
-Lersch, Philipp M. & Vidal, Sergi (2016): My House or our Home? Transitions into Sole Homeownership in British Couples. *Demographic Research* 35 (6). 139--166. doi: \href{http://dx.doi.org/10.4054/DemRes.2016.35.6{10.4054/DemRes.2016.35.6
+Lersch, Philipp M. & Vidal, Sergi (2016): My House or our Home? Transitions into Sole Homeownership in British Couples. *Demographic Research* 35 (6). 139--166. doi: [10.4054/DemRes.2016.35.6](http://dx.doi.org/10.4054/DemRes.2016.35.6)
 
-Lersch, Philipp M. (2016): Family Migration and Subsequent Employment: The Effect of Gender Ideology. *Journal of Marriage and Family* 78 (1). 230 -- 245. doi: \href{http://dx.doi.org/10.1111/jomf.12251{10.1111/jomf.12251 
+Lersch, Philipp M. (2016): Family Migration and Subsequent Employment: The Effect of Gender Ideology. *Journal of Marriage and Family* 78 (1). 230 -- 245. doi: [10.1111/jomf.12251](http://dx.doi.org/10.1111/jomf.12251)
 
-Lersch, Philipp M. & Dewilde, Caroline (2015): Employment Insecurity and First-Time Homeownership: Evidence from 22 European Countries. *Environment & Planning A* 47 (3). 607 -- 624. doi: \href{http://dx.doi.org/10.1068/a130358p{10.1068/a130358p
+Lersch, Philipp M. & Dewilde, Caroline (2015): Employment Insecurity and First-Time Homeownership: Evidence from 22 European Countries. *Environment & Planning A* 47 (3). 607 -- 624. doi: [10.1068/a130358p](http://dx.doi.org/10.1068/a130358p)
 
-Lersch, Philipp M. & Luijkx, Ruud (2015): Intergenerational Transmission of Homeownership in Europe: Revisiting the Socialisation Hypothesis. *Social Science Research* 49. 327--342. doi: \href{http://dx.doi.org/10.1016/j.ssresearch.2014.08.010{10.1016/j.ssresearch.2014.08.010 
+Lersch, Philipp M. & Luijkx, Ruud (2015): Intergenerational Transmission of Homeownership in Europe: Revisiting the Socialisation Hypothesis. *Social Science Research* 49. 327--342. doi: [10.1016/j.ssresearch.2014.08.010](http://dx.doi.org/10.1016/j.ssresearch.2014.08.010)
 
-Lersch, Philipp M. & Vidal, Sergi (2014): Falling out of Love and down the Housing Ladder: A Longitudinal Analysis of Marital Separation and Home Ownership. *European Sociological Review* 30 (4). 512--524. doi: \href{http://esr.oxfordjournals.org/content/30/4/512.full.pdf{10.1093/esr/jcu055
+Lersch, Philipp M. & Vidal, Sergi (2014): Falling out of Love and down the Housing Ladder: A Longitudinal Analysis of Marital Separation and Home Ownership. *European Sociological Review* 30 (4). 512--524. doi: [10.1093/esr/jcu055](http://esr.oxfordjournals.org/content/30/4/512.full.pdf)
 
-Lersch, Philipp M. (2014): Geburten und die Wohnraumversorgung von Familien: Anpassungen der Wohnung im zeitlichen Verlauf  [Childbirth and Room Stress Among Families: Housing Adjustments over Time]. *Zeitschrift für Soziologie* 43 (2).131--149. \href{http://www.zfs-online.org/index.php/zfs/article/view/3163{[Link]
+Lersch, Philipp M. (2014): Geburten und die Wohnraumversorgung von Familien: Anpassungen der Wohnung im zeitlichen Verlauf  [Childbirth and Room Stress Among Families: Housing Adjustments over Time]. *Zeitschrift für Soziologie* 43 (2).131--149. [Link](http://www.zfs-online.org/index.php/zfs/article/view/3163)
 	
-Lersch, Philipp M. (2013): Place Stratification or Spatial Assimilation? Neighbourhood Quality Changes after Residential Mobility for Migrants in Germany. *Urban Studies* 50 (5). 1011--1029. doi: \href{http://dx.doi.org/10.1177/0042098012464403{10.1177/0042098012464403
+Lersch, Philipp M. (2013): Place Stratification or Spatial Assimilation? Neighbourhood Quality Changes after Residential Mobility for Migrants in Germany. *Urban Studies* 50 (5). 1011--1029. doi: [10.1177/0042098012464403](http://dx.doi.org/10.1177/0042098012464403)
