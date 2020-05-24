@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : " "
-  avatar : "/assets/images/lersch_portrait_small.jpg"
+  avatar : "/assets/images/lersch_portrait.jpg"
   bio    : "Sociologist at Humboldt-Universität zu Berlin and DIW Berlin."
   links:
     - label: "Twitter"
