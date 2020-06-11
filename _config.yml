@@ -65,7 +65,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pmlersch"
-        - label: "OSF"
+    - label: "OSF"
       icon: "ai ai-osf-square"
       url: "https://osf.io/y29xd/"      
     - label: "Google Scholar"
