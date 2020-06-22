@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ####  Forthcoming
 
-Tisch, Daria & Lersch, Philipp M. (Forthcoming): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family*. 
+Boertien, Diederik & Lersch, Philipp M. (Forthcoming): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family*.
 
 Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography*. 
 
@@ -25,7 +25,9 @@ Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes 
 Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* published online. doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) \| [Replication files](https://osf.io/7q9fk/) 
 
 Lersch, Philipp M. & Baxter, Janeen (2020): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* published online. doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) \| [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf) \| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/) \| [Replication files](https://osf.io/efh5x/) 
-	
+
+Tisch, Daria & Lersch, Philipp M. (2020): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family* published online. doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1111/jomf.12694) \| [Replication files](https://osf.io/h4uvb/) 
+
 ####  2019
 
 Bayrakdar, Sait, Coulter, Rory, Lersch, Philipp M. & Vidal, Sergi (2019): Family events, parental background and young adults’ homeownership transitions in Britain and Germany. *Housing Studies*, 34 (6). 974--996. doi: [10.1080/02673037.2018.1509949](https://doi.org/10.1080/02673037.2018.1509949)
