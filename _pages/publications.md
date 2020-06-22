@@ -14,9 +14,9 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ####  Forthcoming
 
-Boertien, Diederik & Lersch, Philipp M. (Forthcoming): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family*.
+Boertien, Diederik & Lersch, Philipp M. (Forthcoming): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family*. [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7)
 
-Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography*. 
+Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography*. [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ)
 
 ####  2020
 
