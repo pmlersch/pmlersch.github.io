@@ -46,7 +46,7 @@ Lersch, Philipp M. & Dewilde, Caroline (2018): Homeownership, Saving and Financi
 
 Lersch, Philipp M., Jacob, Marita & Hank, Karsten (2018): Long-Term Health Consequences of Adverse Labor Market Conditions at Time of Leaving Education: Evidence from West German Panel Data. *Journal of Health and Social Behavior* 59 (1), 151--168. doi: [10.1177/0022146517749848](https://doi.org/10.1177/0022146517749848) \| [Replication files](http://osf.io/hn9pv) 
 
-Lersch, Philipp M. & Kleiner, Sibyl (2018): Coresidential Union Entry and Changes in Commuting Times of Women and Men. *Journal of Family Issues* 39 (2). 383--405. doi: [10.1177/\-0192513X16646146](http://dx.doi.org/10.1177/0192513X16646146) 
+Lersch, Philipp M. & Kleiner, Sibyl (2018): Coresidential Union Entry and Changes in Commuting Times of Women and Men. *Journal of Family Issues* 39 (2). 383--405. doi: [10.1177/\-0192513X16646146](http://dx.doi.org/10.1177/0192513X16646146) \| [Replication files](https://doi.org/10.17605/OSF.IO/RYZ5P)
 
 Perales, Francisco, Lersch, Philipp M. & Baxter, Janeen (2018): Birth Cohort, Ageing and Gender Ideology: Lessons from British Panel Data. *Social Science Research* published online. doi: [10.1016/j.ssresearch.2018.11.003](https://doi.org/10.1016/j.ssresearch.2018.11.003)
 
@@ -58,7 +58,7 @@ Lersch, Philipp M. (2017): The Marriage Wealth Premium Revisited: Gender Dispari
 
 Lersch, Philipp M., Jacob, Marita & Hank, Karsten (2017): Parenthood, Gender and Personal Wealth. *European Sociological Review* 33 (3). 410--422. doi: [10.1093/esr/jcx046](http://dx.doi.org/10.1093/esr/jcx046) \| [Summary](https://theconversation.com/study-mothers-are-less-wealthy-than-women-without-children-76193) \| [Replication files](https://osf.io/ndx9w/) 
 
-Lersch, Philipp M. & Uunk, Wilfred (2017): The Shadow of Future Homeownership: The Association of Wanting to Move into Homeownership with Labour Supply. *Work, Employment & Society* 31 (3). 522--541. doi: [10.1177/0950017016631443](http://dx.doi.org/10.1177/0950017016631443) 
+Lersch, Philipp M. & Uunk, Wilfred (2017): The Shadow of Future Homeownership: The Association of Wanting to Move into Homeownership with Labour Supply. *Work, Employment & Society* 31 (3). 522--541. doi: [10.1177/0950017016631443](http://dx.doi.org/10.1177/0950017016631443) \| [Replication files](http://dx.doi.org/10.17605/OSF.IO/ZBJGD)
 
 Vidal, Sergi, Perales, Francisco, Lersch, Philipp M. & Brandén, Maria (2017): Family Migration in a Cross-National Perspective: The Importance of Within-Couple Employment Arrangements in Australia, Britain, Germany and Sweden. *Demographic Research* 36 (10) (Special Collection edited by Trude Lappegaard, Frances Goldscheider and Eva Bernhardt). 307--338. doi: [10.4054/DemRes.2017.36.10](http://dx.doi.org/10.4054/DemRes.2017.36.10) 
 
@@ -72,14 +72,13 @@ Lersch, Philipp M. (2016): Family Migration and Subsequent Employment: The Effec
 
 ####  2015
 
-Lersch, Philipp M. & Dewilde, Caroline (2015): Employment Insecurity and First-Time Homeownership: Evidence from 22 European Countries. *Environment & Planning A* 47 (3). 607 -- 624. doi: [10.1068/a130358p](http://dx.doi.org/10.1068/a130358p) 
+Lersch, Philipp M. & Dewilde, Caroline (2015): Employment Insecurity and First-Time Homeownership: Evidence from 22 European Countries. *Environment & Planning A* 47 (3). 607 -- 624. doi: [10.1068/a130358p](http://dx.doi.org/10.1068/a130358p) \| [Replication files](http://dx.doi.org/10.17605/OSF.IO/93QWD)
 
-Lersch, Philipp M. & Luijkx, Ruud (2015): Intergenerational Transmission of Homeownership in Europe: Revisiting the Socialisation Hypothesis. *Social Science Research* 49. 327--342. doi: [10.1016/j.ssresearch.2014.08.010](http://dx.doi.org/10.1016/j.ssresearch.2014.08.010) 
+Lersch, Philipp M. & Luijkx, Ruud (2015): Intergenerational Transmission of Homeownership in Europe: Revisiting the Socialisation Hypothesis. *Social Science Research* 49. 327--342. doi: [10.1016/j.ssresearch.2014.08.010](http://dx.doi.org/10.1016/j.ssresearch.2014.08.010) \| [Replication files](http://dx.doi.org/10.17605/OSF.IO/URHSF)
 
 ####  2014
 
 Lersch, Philipp M. & Vidal, Sergi (2014): Falling out of Love and down the Housing Ladder: A Longitudinal Analysis of Marital Separation and Home Ownership. *European Sociological Review* 30 (4). 512--524. doi: [10.1093/esr/jcu055](http://esr.oxfordjournals.org/content/30/4/512.full.pdf) \| [Summary](http://www.population-europe.eu/pop-digest/falling-out-love-and-down-housing-ladder) 
-
 Lersch, Philipp M. (2014): Geburten und die Wohnraumversorgung von Familien: Anpassungen der Wohnung im zeitlichen Verlauf  [Childbirth and Room Stress Among Families: Housing Adjustments over Time]. *Zeitschrift für Soziologie* 43 (2).131--149. [Link](http://www.zfs-online.org/index.php/zfs/article/view/3163) 
 
 ####  2013
