@@ -14,13 +14,13 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ####  Forthcoming
 
-Boertien, Diederik & Lersch, Philipp M. (Forthcoming): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family*. [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7)
-
 Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (Forthcoming): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography*. [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ)
 
 ####  2020
 
-Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review*. published online. doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) \| [Replication files](https://doi.org/10.17605/OSF.IO/836VM) 
+Boertien, Diederik & Lersch, Philipp M. (2020): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* published online. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7)
+
+Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review* published online. doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) \| [Replication files](https://doi.org/10.17605/OSF.IO/836VM) 
 
 Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* published online. doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) \| [Replication files](https://osf.io/7q9fk/) 
 
