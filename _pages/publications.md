@@ -12,8 +12,6 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ## Journal articles
 
-####  Forthcoming
-
 ####  2020
 
 Boertien, Diederik & Lersch, Philipp M. (2020): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* published online. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7)
@@ -26,7 +24,7 @@ Lersch, Philipp M. & Baxter, Janeen (2020): Parental Separation during Childhood
 
 Tisch, Daria & Lersch, Philipp M. (2020): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family* published online. doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1111/jomf.12694) \| [Replication files](https://osf.io/h4uvb/) 
 
-Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* published online. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ)
+Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* published online. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) \| [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ)
 
 ####  2019
 
