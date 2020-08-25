@@ -77,6 +77,7 @@ Lersch, Philipp M. & Luijkx, Ruud (2015): Intergenerational Transmission of Home
 ####  2014
 
 Lersch, Philipp M. & Vidal, Sergi (2014): Falling out of Love and down the Housing Ladder: A Longitudinal Analysis of Marital Separation and Home Ownership. *European Sociological Review* 30 (4). 512--524. doi: [10.1093/esr/jcu055](http://esr.oxfordjournals.org/content/30/4/512.full.pdf) \| [Summary](http://www.population-europe.eu/pop-digest/falling-out-love-and-down-housing-ladder) 
+
 Lersch, Philipp M. (2014): Geburten und die Wohnraumversorgung von Familien: Anpassungen der Wohnung im zeitlichen Verlauf  [Childbirth and Room Stress Among Families: Housing Adjustments over Time]. *Zeitschrift für Soziologie* 43 (2).131--149. [Link](http://www.zfs-online.org/index.php/zfs/article/view/3163) 
 
 ####  2013
