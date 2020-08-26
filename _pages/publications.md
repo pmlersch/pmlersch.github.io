@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### Forthcoming
 
-Lersch, Philipp M., Schulz, Wiebke & Leckie, George (Forthcoming): The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the 20th Century. *American Sociological Review*. 
+Lersch, Philipp M., Schulz, Wiebke & Leckie, George (Forthcoming): The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the 20th Century. *American Sociological Review*. [Replication files](https://doi.org/10.17605/OSF.IO/DEHX7)
 
 ####  2020
 
