@@ -12,6 +12,10 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ## Journal articles
 
+#### Forthcoming
+
+Lersch, Philipp M., Schulz, Wiebke & Leckie, George (Forthcoming): The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the 20th Century in West Germany. *American Sociological Review*. 
+
 ####  2020
 
 Boertien, Diederik & Lersch, Philipp M. (2020): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* published online. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7)
