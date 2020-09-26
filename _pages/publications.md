@@ -26,7 +26,7 @@ Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marri
 
 Lersch, Philipp M. & Baxter, Janeen (2020): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* published online. doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) \| [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf) \| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/) \| [Replication files](https://osf.io/efh5x/) 
 
-Nutz, Theresa & Lersch, Philipp M. (2020): Gendered Employment Trajectories and Individual Wealth at Older Ages in Eastern and Western Germany: A Life Course Perspective. *Advances in Life Course Research* published online. doi: [10.1016/j.alcr.2020.100374][http://dx.doi.org/10.1016/j.alcr.2020.100374] \| [Replication files](https://osf.io/49nh6/) 
+Nutz, Theresa & Lersch, Philipp M. (2020): Gendered Employment Trajectories and Individual Wealth at Older Ages in Eastern and Western Germany: A Life Course Perspective. *Advances in Life Course Research* published online. doi: [10.1016/j.alcr.2020.100374](http://dx.doi.org/10.1016/j.alcr.2020.100374) \| [Replication files](https://osf.io/49nh6/) 
 
 Tisch, Daria & Lersch, Philipp M. (2020): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family* published online. doi: [10.1111/jomf.12694](http://dx.doi.org/10.1111/jomf.12694) \| [Replication files](https://osf.io/h4uvb/) 
 
