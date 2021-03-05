@@ -18,6 +18,10 @@ Boertien, Diederik & Lersch, Philipp M. (2021): Gender and Changes in Household 
 
 Lersch, Philipp M. & Baxter, Janeen (2021): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* 99 (3). 1176--1208.  doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) \| [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf) \| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/) \| [Replication files](https://osf.io/efh5x/) 
 
+Nutz, Theresa & Lersch, Philipp M. (2021): Gendered Employment Trajectories and Individual Wealth at Older Ages in Eastern and Western Germany: A Life Course Perspective. *Advances in Life Course Research* 47. 100374. doi: [10.1016/j.alcr.2020.100374](http://dx.doi.org/10.1016/j.alcr.2020.100374) \| [Replication files](https://osf.io/49nh6/) 
+
+Tisch, Daria & Lersch, Philipp M. (2021): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family* 83 (2). 516--533. doi: [10.1111/jomf.12694](http://dx.doi.org/10.1111/jomf.12694) \| [Replication files](https://osf.io/h4uvb/) 
+
 ####  2020
 
 Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes in the Level and Dispersion of Gender Ideology After German Reunification: Results from a Natural Experiment. *European Sociological Review* 36 (5). 814--828. doi: [10.1093/esr/jcaa015](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa015/5825421?guestAccessKey=753b0df7-7880-4abb-bd5a-23a60b76a910) \| [Replication files](https://doi.org/10.17605/OSF.IO/836VM) 
@@ -25,10 +29,6 @@ Ebner, Christian, Kühhirt, Michael & Lersch, Philipp M. (2020): Cohort Changes 
 Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marriage: Over-Time Change and Within-Couple Inequalities. *European Sociological Review* 36 (4). 580--593. doi: [10.1093/esr/jcaa006](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcaa006/5753972?guestAccessKey=bb96271f-1ff7-426b-a09c-dfb29ef16331) \| [Replication files](https://osf.io/7q9fk/) 
 
 Lersch, Philipp M., Schulz, Wiebke & Leckie, George (2020): The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the 20th Century. *American Sociological Review* 85 (6). 1084--1116. doi: [10.1177/0003122420966324](http://dx.doi.org/10.1177/0003122420966324) \| [Replication files](https://doi.org/10.17605/OSF.IO/DEHX7)
-
-Nutz, Theresa & Lersch, Philipp M. (2020): Gendered Employment Trajectories and Individual Wealth at Older Ages in Eastern and Western Germany: A Life Course Perspective. *Advances in Life Course Research* published online. doi: [10.1016/j.alcr.2020.100374](http://dx.doi.org/10.1016/j.alcr.2020.100374) \| [Replication files](https://osf.io/49nh6/) 
-
-Tisch, Daria & Lersch, Philipp M. (2020): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family* published online. doi: [10.1111/jomf.12694](http://dx.doi.org/10.1111/jomf.12694) \| [Replication files](https://osf.io/h4uvb/) 
 
 Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* 57 (4). 1483--1511. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) \| [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ)
 
