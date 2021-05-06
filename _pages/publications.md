@@ -12,6 +12,10 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ## Journal articles
 
+#### Forthcoming
+
+Vidal, Sergi \& Lersch, Philipp M. (forthcoming): Panel Data in Research on Mobility and Migration: A Review of Recent Advances. *Comparative Population Studies*.
+
 ####  2021
 
 Boertien, Diederik & Lersch, Philipp M. (2021): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* 83 (1). 228--242. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7)
