@@ -14,6 +14,8 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### Forthcoming
 
+Lersch, Philipp M., Grabka, Markus M., Rüß, Kilian & Schröder, Carsten (Forthcoming): Wealth of Children from Single-Parent Families: Low Levels and High Inequality in Germany. *Journal of European Social Policy*.
+
 Vidal, Sergi \& Lersch, Philipp M. (forthcoming): Panel Data in Research on Mobility and Migration: A Review of Recent Advances. *Comparative Population Studies*.
 
 ####  2021
