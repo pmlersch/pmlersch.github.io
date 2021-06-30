@@ -18,7 +18,7 @@ Lersch, Philipp M., Grabka, Markus M., Rüß, Kilian & Schröder, Carsten (Forth
 
 ####  2021
 
-Boertien, Diederik & Lersch, Philipp M. (2021): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* 83 (1). 228--242. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7) \| [Summary (see p. 62ff)](https://www.neodemos.info/wp-content/uploads/2021/05/50anni-divorzio-ok-2.pdf)
+Boertien, Diederik & Lersch, Philipp M. (2021): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* 83 (1). 228--242. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Summary (see p. 62ff)](https://www.neodemos.info/wp-content/uploads/2021/05/50anni-divorzio-ok-2.pdf)\| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7) 
 
 Lersch, Philipp M. & Baxter, Janeen (2021): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* 99 (3). 1176--1208.  doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) \| [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf) \| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/) \| [Replication files](https://osf.io/efh5x/) 
 
