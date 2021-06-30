@@ -26,7 +26,7 @@ Nutz, Theresa & Lersch, Philipp M. (2021): Gendered Employment Trajectories and 
 
 Tisch, Daria & Lersch, Philipp M. (2021): Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements. *Journal of Marriage and Family* 83 (2). 516--533. doi: [10.1111/jomf.12694](http://dx.doi.org/10.1111/jomf.12694) \| [Replication files](https://osf.io/h4uvb/) 
 
-Vidal, Sergi; Lersch, Philipp M. (2021): Panel Data in Research on Mobility and Migration. A Review of Recent Advances. In Comparative Population Studies 46. doi: [10.12765/CPoS-2021-07](http://dx.doi.org/10.12765/CPoS-2021-07) \| [Supplementary materials](https://osf.io/nzbj8/) 
+Vidal, Sergi; Lersch, Philipp M. (2021): Panel Data in Research on Mobility and Migration. A Review of Recent Advances. *Comparative Population Studies* 46. doi: [10.12765/CPoS-2021-07](http://dx.doi.org/10.12765/CPoS-2021-07) \| [Supplementary materials](https://osf.io/nzbj8/) 
 
 
 ####  2020
