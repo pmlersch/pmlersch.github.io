@@ -42,6 +42,8 @@ Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interde
 Bayrakdar, Sait, Coulter, Rory, Lersch, Philipp M. & Vidal, Sergi (2019): Family events, parental background and young adults’ homeownership transitions in Britain and Germany. *Housing Studies*, 34 (6). 974--996. doi: [10.1080/02673037.2018.1509949](https://doi.org/10.1080/02673037.2018.1509949)
 
 Lersch, Philipp M. (2019): Fewer Siblings, more Wealth? Sibship Size and Wealth Attainment. *European Journal of Population* 35 (5). 959--986. doi: [10.1007/s10680-018-09512-x](https://doi.org/10.1007/s10680-018-09512-x) \| [Preprint](https://osf.io/preprints/socarxiv/9hy6x) \| [Replication files](http://doi.org/10.17605/OSF.IO/S62ED) 
+
+Perales, Francisco, Lersch, Philipp M. & Baxter, Janeen (2019): Birth Cohort, Ageing and Gender Ideology: Lessons from British Panel Data. *Social Science Research* 79. 85--100. doi: [10.1016/j.ssresearch.2018.11.003](https://doi.org/10.1016/j.ssresearch.2018.11.003)
 	
 Uunk, Wilfred & Lersch, Philipp M. (2019): The effect of regional gender-role attitudes on female employment: A longitudinal test using the BHPS, 1991-2007. *European Sociological Review* 35 (5). 669--683. doi: [10.1093/esr/jcz026](http://dx.doi.org/10.1093/esr/jcz026) \| [Replication files](https://osf.io/kr2yb/) 
 
@@ -56,8 +58,6 @@ Lersch, Philipp M. & Dewilde, Caroline (2018): Homeownership, Saving and Financi
 Lersch, Philipp M., Jacob, Marita & Hank, Karsten (2018): Long-Term Health Consequences of Adverse Labor Market Conditions at Time of Leaving Education: Evidence from West German Panel Data. *Journal of Health and Social Behavior* 59 (1), 151--168. doi: [10.1177/0022146517749848](https://doi.org/10.1177/0022146517749848) \| [Replication files](http://osf.io/hn9pv) 
 
 Lersch, Philipp M. & Kleiner, Sibyl (2018): Coresidential Union Entry and Changes in Commuting Times of Women and Men. *Journal of Family Issues* 39 (2). 383--405. doi: [10.1177/\-0192513X16646146](http://dx.doi.org/10.1177/0192513X16646146) \| [Replication files](https://doi.org/10.17605/OSF.IO/RYZ5P)
-
-Perales, Francisco, Lersch, Philipp M. & Baxter, Janeen (2018): Birth Cohort, Ageing and Gender Ideology: Lessons from British Panel Data. *Social Science Research* published online. doi: [10.1016/j.ssresearch.2018.11.003](https://doi.org/10.1016/j.ssresearch.2018.11.003)
 
 #### 2017
 
