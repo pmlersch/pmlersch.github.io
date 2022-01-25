@@ -35,13 +35,13 @@ Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marri
 
 Lersch, Philipp M., Schulz, Wiebke & Leckie, George (2020): The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the 20th Century. *American Sociological Review* 85 (6). 1084--1116. doi: [10.1177/0003122420966324](http://dx.doi.org/10.1177/0003122420966324) \| [Replication files](https://doi.org/10.17605/OSF.IO/DEHX7)
 
-Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* 57 (4). 1483--1511. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) \| [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ)
+Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* 57 (4). 1483--1511. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) \| [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ) \| [Ungated version](https://ddd.uab.cat/pub/artpub/2020/238181/demography_a2020v57n4p1483.pdf)
 
 #### 2019
 
 Bayrakdar, Sait, Coulter, Rory, Lersch, Philipp M. & Vidal, Sergi (2019): Family events, parental background and young adults’ homeownership transitions in Britain and Germany. *Housing Studies*, 34 (6). 974--996. doi: [10.1080/02673037.2018.1509949](https://doi.org/10.1080/02673037.2018.1509949)
 
-Lersch, Philipp M. (2019): Fewer Siblings, more Wealth? Sibship Size and Wealth Attainment. *European Journal of Population* 35 (5). 959--986. doi: [10.1007/s10680-018-09512-x](https://doi.org/10.1007/s10680-018-09512-x) \| [Preprint](https://osf.io/preprints/socarxiv/9hy6x) \| [Replication files](http://doi.org/10.17605/OSF.IO/S62ED) 
+Lersch, Philipp M. (2019): Fewer Siblings, more Wealth? Sibship Size and Wealth Attainment. *European Journal of Population* 35 (5). 959--986. doi: [10.1007/s10680-018-09512-x](https://doi.org/10.1007/s10680-018-09512-x) \| [Preprint](https://osf.io/preprints/socarxiv/9hy6x) \| [Replication files](http://doi.org/10.17605/OSF.IO/S62ED) \| [Summary](https://www.niussp.org/family-and-households/more-siblings-less-wealth-in-todays-germany/)
 
 Perales, Francisco, Lersch, Philipp M. & Baxter, Janeen (2019): Birth Cohort, Ageing and Gender Ideology: Lessons from British Panel Data. *Social Science Research* 79. 85--100. doi: [10.1016/j.ssresearch.2018.11.003](https://doi.org/10.1016/j.ssresearch.2018.11.003)
 	
