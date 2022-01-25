@@ -18,7 +18,7 @@ Boertien, Diederik & Lersch, Philipp M. (2021): Gender and Changes in Household 
 
 Lersch, Philipp M. & Baxter, Janeen (2021): Parental Separation during Childhood and Adult Children's Wealth. *Social Forces* 99 (3). 1176--1208.  doi: [10.1093/sf/soaa021](http://dx.doi.org/10.1093/sf/soaa021) \| [Preprint](https://www.lifecoursecentre.org.au/wp-content/uploads/2018/06/2015-15-LCC-Working-Paper-Lersch-and-Baxter.pdf) \| [Summary](https://www.childandfamilyblog.com/child-development/how-divorce-affects-childrens-wealth-ability-to-earn/) \| [Replication files](https://osf.io/efh5x/) 
 
-Lersch, Philipp M., Grabka, Markus M., Rüß, Kilian & Schröder, Carsten (2021): Wealth of Children from Single-Parent Families: Low Levels and High Inequality in Germany. *Journal of European Social Policy* 31 (5). 565--579 doi: [10.1177/09589287211040412](http://dx.doi.org/10.1177/09589287211040412) \| [Replication files](https:///OSF.IO/YTGM8) 
+Lersch, Philipp M., Grabka, Markus M., Rüß, Kilian & Schröder, Carsten (2021): Wealth of Children from Single-Parent Families: Low Levels and High Inequality in Germany. *Journal of European Social Policy* 31 (5). 565--579 doi: [10.1177/09589287211040412](http://dx.doi.org/10.1177/09589287211040412) \| [Replication files](https://OSF.IO/YTGM8) 
 
 Nutz, Theresa & Lersch, Philipp M. (2021): Gendered Employment Trajectories and Individual Wealth at Older Ages in Eastern and Western Germany: A Life Course Perspective. *Advances in Life Course Research* 47. 100374. doi: [10.1016/j.alcr.2020.100374](http://dx.doi.org/10.1016/j.alcr.2020.100374) \| [Replication files](https://osf.io/49nh6/) 
 
