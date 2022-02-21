@@ -12,6 +12,10 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ## Journal articles
 
+#### Forthcoming
+
+Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (Forthcoming): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population*. 
+
 #### 2021
 
 Boertien, Diederik & Lersch, Philipp M. (2021): Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany. *Journal of Marriage and Family* 83 (1). 228--242. doi: [10.1111/jomf.12705](http://dx.doi.org/10.1111/jomf.12705) \| [Summary (see p. 62ff)](https://www.neodemos.info/wp-content/uploads/2021/05/50anni-divorzio-ok-2.pdf)\| [Replication files](https://doi.org/10.17605/OSF.IO/GTKH7) 
