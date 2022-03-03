@@ -7,4 +7,4 @@ I am Associate Professor of Sociology of Social Policy in the [Department of Soc
 
 My main research interests are in social inequalities over and between life courses of individuals in divergent institutional contexts focusing on the family, wealth and employment. I mainly work with longitudinal survey data.
 
-See my full CV [here](/assets/pdf/cv_lersch.pdf).
+See my full CV [here](https://box.hu-berlin.de/f/9f15157304624b29b2c9/?dl=1).
