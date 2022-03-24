@@ -12,9 +12,9 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ## Journal articles
 
-#### Forthcoming
+#### 2022
 
-Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (Forthcoming): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population*. 
+Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (2022): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population* published online. doi: [10.1007/s10680-022-09613-8](http://dx.doi.org/10.1007/s10680-022-09613-8) \| [Replication files](https://osf.io/uet85/) 
 
 #### 2021
 
