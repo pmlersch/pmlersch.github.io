@@ -43,7 +43,7 @@ Kapelle, Nicole & Lersch, Philipp M. (2020): The Accumulation of Wealth in Marri
 
 Lersch, Philipp M., Schulz, Wiebke & Leckie, George (2020): The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the 20th Century. *American Sociological Review* 85 (6). 1084--1116. doi: [10.1177/0003122420966324](http://dx.doi.org/10.1177/0003122420966324) \| [Replication files](https://doi.org/10.17605/OSF.IO/DEHX7)
 
-Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* 57 (4). 1483--1511. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) \| [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ) \| [Ungated version](https://ddd.uab.cat/pub/artpub/2020/238181/demography_a2020v57n4p1483.pdf)
+Vidal, Sergi, Lersch, Philipp M., Jacob, Marita, & Hank, Karsten (2020): Interdependencies in mothers' and daughters' work-family life course trajectories: Similar but different? *Demography* 57 (4). 1483--1511. doi: [10.1007/s13524-020-00899-z](http://dx.doi.org/10.1007/s13524-020-00899-z) \| [Replication files](https://doi.org/10.17605/OSF.IO/EFXWQ) \| [Summary](https://www.niussp.org/gender-issues/intergenerational-transmission-of-womens-life-courses-in-germany/)
 
 #### 2019
 
