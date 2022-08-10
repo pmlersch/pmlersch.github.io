@@ -22,7 +22,7 @@ Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class O
 
 #### 2022
 
-Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (2022): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population* published online. doi: [10.1007/s10680-022-09613-8](http://dx.doi.org/10.1007/s10680-022-09613-8) \| [Replication files](https://osf.io/uet85/) 
+Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (2022): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population*  38 (3). 353–-375. doi: [10.1007/s10680-022-09613-8](http://dx.doi.org/10.1007/s10680-022-09613-8) \| [Replication files](https://osf.io/uet85/) 
 
 #### 2021
 
