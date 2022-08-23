@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### Forthcoming
 
-Breznau, Nate, ... Lersch, Philipp M. ... (Forthcoming): Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. *Proceedings of the National Academy of Sciences*. [Preprint](https://osf.io/preprints/metaarxiv/cd5j9/)
+Breznau, Nate, ... Lersch, Philipp M. ... [total of 166 authors] (Forthcoming): Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. *Proceedings of the National Academy of Sciences*. [Preprint](https://osf.io/preprints/metaarxiv/cd5j9/)
 
 Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*.
 
