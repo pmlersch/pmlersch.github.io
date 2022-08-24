@@ -75,6 +75,9 @@ author:
     - label: "Institutional website"
       icon: "fa fa-link"
       url: "https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/team/1691159"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://strava.com/athletes/3932412"
 
 footer:
   links:
