@@ -16,7 +16,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 166 authors] (Forthcoming): Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. *Proceedings of the National Academy of Sciences*. [Preprint](https://osf.io/preprints/metaarxiv/cd5j9/)
 
-Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*.
+Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7)
 
 Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica*. 
 
