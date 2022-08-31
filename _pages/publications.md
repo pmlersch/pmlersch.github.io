@@ -16,13 +16,13 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 166 authors] (Forthcoming): Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. *Proceedings of the National Academy of Sciences*. [Preprint](https://osf.io/preprints/metaarxiv/cd5j9/)
 
-Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7)
-
 Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica*. 
 
 Lersch, Philipp M., Struffolino, Emanuela & Vitali, Agnese (Forthcoming): Wealth in Couples: Introduction to the Special Issue. *European Journal of Population*.
 
 #### 2022
+
+Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
 
 Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (2022): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population*  38 (3). 353–-375. doi: [10.1007/s10680-022-09613-8](http://dx.doi.org/10.1007/s10680-022-09613-8) \| [Replication files](https://osf.io/uet85/) 
 
