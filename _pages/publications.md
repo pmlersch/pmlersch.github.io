@@ -20,7 +20,7 @@ Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp 
 
 Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica*. 
 
-Lersch, Philipp M., Struffolino, Emanuela \& Vitali, Agnese (Forthcoming): Wealth in Couples: Introduction to the Special Issue. *European Journal of Population*.
+Lersch, Philipp M., Struffolino, Emanuela & Vitali, Agnese (Forthcoming): Wealth in Couples: Introduction to the Special Issue. *European Journal of Population*.
 
 #### 2022
 
