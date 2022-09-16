@@ -22,7 +22,7 @@ Lersch, Philipp M., Struffolino, Emanuela & Vitali, Agnese (Forthcoming): Wealth
 
 #### 2022
 
-Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
+Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population*. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
 
 Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (2022): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population*  38 (3). 353–-375. doi: [10.1007/s10680-022-09613-8](http://dx.doi.org/10.1007/s10680-022-09613-8) \| [Replication files](https://osf.io/uet85/) 
 
