@@ -16,7 +16,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 166 authors] (Forthcoming): Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. *Proceedings of the National Academy of Sciences*. [Preprint](https://osf.io/preprints/metaarxiv/cd5j9/)
 
-Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica*. 
+Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica*. doi: [10.1177/00016993221129792](http://dx.doi.org/10.1177/00016993221129792)  
 
 #### 2022
 
