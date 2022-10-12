@@ -20,9 +20,9 @@ Lersch, Philipp M. & Groh-Samberg, Olaf (Forthcoming): The Long Reach of Class O
 
 #### 2022
 
-Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population* published online. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
+Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population* 38 (4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
 
-Lersch, Philipp M., Struffolino, Emanuela & Vitali, Agnese (2022): Wealth in Couples: Introduction to the Special Issue. *European Journal of Population* published online. doi: [10.1007/s10680-022-09640-5](http://dx.doi.org/10.1007/s10680-022-09640-5)
+Lersch, Philipp M., Struffolino, Emanuela & Vitali, Agnese (2022): Wealth in Couples: Introduction to the Special Issue. *European Journal of Population* 38 (4). 623--641. doi: [10.1007/s10680-022-09640-5](http://dx.doi.org/10.1007/s10680-022-09640-5)
 
 Nutz, Theresa, Nelles, Anika & Lersch, Philipp M. (2022): Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime. *European Journal of Population*  38 (3). 353–-375. doi: [10.1007/s10680-022-09613-8](http://dx.doi.org/10.1007/s10680-022-09613-8) \| [Replication files](https://osf.io/uet85/) 
 
