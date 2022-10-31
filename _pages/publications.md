@@ -18,7 +18,7 @@ Breznau, Nate, ... Lersch, Philipp M. ... [total of 166 authors] (2022): Observi
 
 Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. *European Journal of Population* 38 (4). 811--834. doi: [10.1007/s10680-022-09630-7](http://dx.doi.org/10.1007/s10680-022-09630-7) \| [Replication files](https://osf.io/4mvxr/) 
 
-Lersch, Philipp M. & Groh-Samberg, Olaf (2022): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica* published online. doi: [10.1177/00016993221129792](http://dx.doi.org/10.1177/00016993221129792)  
+Lersch, Philipp M. & Groh-Samberg, Olaf (2022): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica* published online. doi: [10.1177/00016993221129792](http://dx.doi.org/10.1177/00016993221129792)   \| [Replication files](https://10.17605/OSF.IO/TCPK4)
 
 Lersch, Philipp M., Struffolino, Emanuela & Vitali, Agnese (2022): Wealth in Couples: Introduction to the Special Issue. *European Journal of Population* 38 (4). 623--641. doi: [10.1007/s10680-022-09640-5](http://dx.doi.org/10.1007/s10680-022-09640-5)
 
