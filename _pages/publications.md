@@ -12,6 +12,10 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 ## Journal articles
 
+#### Forthcoming
+
+Lersch, Philipp M. (Forthcoming): Change in Personal Culture over the Life Course. *American Sociological Review*.
+
 #### 2022
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 166 authors] (2022): Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. *Proceedings of the National Academy of Sciences* 119 (44).  e2203150119. doi: [10.1073/pnas.2203150119](http://dx.doi.org/10.1073/pnas.2203150119) \| [Preprint](https://osf.io/preprints/metaarxiv/cd5j9/)
