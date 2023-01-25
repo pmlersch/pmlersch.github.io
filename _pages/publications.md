@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### Forthcoming
 
-Lersch, Philipp M. (Forthcoming): Change in Personal Culture over the Life Course. *American Sociological Review*. [Replication files](https://osf.io/uey5h/) 
+Lersch, Philipp M. (Forthcoming): Change in Personal Culture over the Life Course. *American Sociological Review*.  
 
 #### 2022
 
