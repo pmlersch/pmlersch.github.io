@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### 2023
 
-Lersch, Philipp M. (2023): Change in Personal Culture over the Life Course. *American Sociological Review* published online. doi: [10.1177/00031224231156456](http://dx.doi.org/10.1177/00031224231156456) \| [Replication files](https://osf.io/uey5h/)
+Lersch, Philipp M. (2023): Change in Personal Culture over the Life Course. *American Sociological Review* 88 (2). 220--251. doi: [10.1177/00031224231156456](http://dx.doi.org/10.1177/00031224231156456) \| [Replication files](https://osf.io/uey5h/)
 
 Lersch, Philipp M. & Groh-Samberg, Olaf (2023): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica* 66 (2). 210--230. doi: [10.1177/00016993221129792](http://dx.doi.org/10.1177/00016993221129792)   \| [Replication files](https://dx.doi.org/10.17605/OSF.IO/TCPK4)
 
