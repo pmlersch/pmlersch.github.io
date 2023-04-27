@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### Forthcoming
 
-Lersch, Philipp M. & Schunck, Reinhard (Forthcoming): Assortative Mating and Wealth Inequalities Between and Within Households. *Social Forces*. 
+Lersch, Philipp M. & Schunck, Reinhard (Forthcoming): Assortative Mating and Wealth Inequalities Between and Within Households. *Social Forces*. doi: [10.1093/sf/soad064](http://dx.doi.org/10.1093/sf/soad064) 
 
 #### 2023
 
