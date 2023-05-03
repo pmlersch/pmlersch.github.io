@@ -16,7 +16,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 Colombarolli, Claudia & Lersch, Philipp M. (Forthcoming): Atypical Work, Financial Assets, and Asset Poverty in Germany. *Research in Social Stratification and Mobility*.
 
-Lersch, Philipp M. & Schunck, Reinhard (Forthcoming): Assortative Mating and Wealth Inequalities Between and Within Households. *Social Forces*. doi: [10.1093/sf/soad064](http://dx.doi.org/10.1093/sf/soad064) 
+Lersch, Philipp M. & Schunck, Reinhard (Forthcoming): Assortative Mating and Wealth Inequalities Between and Within Households. *Social Forces*. doi: [10.1093/sf/soad064](http://dx.doi.org/10.1093/sf/soad064) \| [Replication files](https://dx.doi.org/10.17605/OSF.IO/BPZSG)
 
 
 
