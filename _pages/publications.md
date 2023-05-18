@@ -14,7 +14,7 @@ Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life 
 
 #### 2023
 
-Colombarolli, Claudia & Lersch, Philipp M. (Forthcoming): Atypical Work, Financial Assets, and Asset Poverty in Germany. *Research in Social Stratification and Mobility*. doi: [10.1016/j.rssm.2023.100803](https://doi.org/10.1016/j.rssm.2023.100803)
+Colombarolli, Claudia & Lersch, Philipp M. (2023): Atypical Work, Financial Assets, and Asset Poverty in Germany. *Research in Social Stratification and Mobility*. doi: [10.1016/j.rssm.2023.100803](https://doi.org/10.1016/j.rssm.2023.100803)
 
 Lersch, Philipp M. (2023): Change in Personal Culture over the Life Course. *American Sociological Review* 88 (2). 220--251. doi: [10.1177/00031224231156456](http://dx.doi.org/10.1177/00031224231156456) \| [Replication files](https://osf.io/uey5h/)
 
