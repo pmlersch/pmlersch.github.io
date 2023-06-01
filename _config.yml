@@ -16,7 +16,7 @@
 title: Philipp M. Lersch
 email: p.m.lersch@hu-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of Philipp M. Lersch who is a sociologist at Humboldt-Universität zu Berlin and DIW Berlin/SOEP.
+  Website of Philipp M. Lersch who is a sociologist at DIW Berlin/SOEP and Humboldt-Universität zu Berlin.
 github_username: pmlersch
 minimal_mistakes_skin: dirt
 search: false
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : " "
   avatar : "/assets/images/lersch_portrait.jpg"
-  bio    : "Sociologist at Humboldt-Universität zu Berlin and DIW Berlin/SOEP."
+  bio    : "Sociologist at DIW Berlin/SOEP and Humboldt-Universität zu Berlin."
   links:
     - label: "OSF"
       icon: "ai ai-osf-square"
@@ -70,7 +70,7 @@ author:
       url: "http://orcid.org/0000-0003-3863-8301"  
     - label: "Institutional website"
       icon: "fa fa-link"
-      url: "https://www.sowi.hu-berlin.de/en/lehrbereiche-en/sozpolsoz/team/1691159"
+      url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.619969.en"
     - label: "Strava"
       icon: "fab fa-strava"
       url: "https://strava.com/athletes/3932412"
