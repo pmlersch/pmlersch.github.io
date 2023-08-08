@@ -13,7 +13,7 @@ Unter den Linden 6
 10099 Berlin  
 Deutschland  
 
-E-mailadresse: p.m.lersch [at] hu-berlin.de
+E-mailadresse: plersch [at] diw.de
 
 ## Arten der verarbeiteten Daten
 – Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).
