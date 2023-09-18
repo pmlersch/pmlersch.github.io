@@ -15,7 +15,7 @@ The project creates new knowledge about the rigidity of the German social struct
 
 *Funding agency*: DFG
 
-*Funding period*: 2021-2024
+*Funding period*: 2021-2025
 
 ## Accumulation of Personal Wealth in Couples: Individual Resources and Gender Inequalities in Intimate Relationships (Emmy Noether Research Group)
 
@@ -29,4 +29,4 @@ Thereby, this timely and relevant project contributes to a better understanding 
 
 *Funding agency*: DFG
 
-*Funding period*: 2017-2023
+*Funding period*: 2017-2023 (completed)
