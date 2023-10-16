@@ -20,7 +20,7 @@ Lersch, Philipp M. (2023): Change in Personal Culture over the Life Course. *Ame
 
 Lersch, Philipp M. & Groh-Samberg, Olaf (2023): The Long Reach of Class Origin on Financial Investments and Net Worth. *Acta Sociologica* 66 (2). 210--230. doi: [10.1177/00016993221129792](http://dx.doi.org/10.1177/00016993221129792)   \| [Replication files](https://dx.doi.org/10.17605/OSF.IO/TCPK4)
 
-Lersch, Philipp M. & Schunck, Reinhard (2023): Assortative Mating and Wealth Inequalities Between and Within Households. *Social Forces*. doi: [10.1093/sf/soad064](http://dx.doi.org/10.1093/sf/soad064) \| [Replication files](https://dx.doi.org/10.17605/OSF.IO/BPZSG)
+Lersch, Philipp M. & Schunck, Reinhard (2023): Assortative Mating and Wealth Inequalities Between and Within Households. *Social Forces* 102 (2). 454--474. doi: [10.1093/sf/soad064](http://dx.doi.org/10.1093/sf/soad064) \| [Replication files](https://dx.doi.org/10.17605/OSF.IO/BPZSG)
 
 #### 2022
 
