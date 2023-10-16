@@ -4,13 +4,12 @@ title: "Contact"
 ---
 
 Philipp M. Lersch  
-Department of Social Sciences  
-Humboldt-Universität zu Berlin  
-Unter den Linden 6  
-10099 Berlin  
+German Institute for Economic research (DIW Berlin)  
+Socio-economic Panel 
+Mohrenstraße 58
+10117 Berlin
 Germany 
-
 ___________________________________
  
 **Email:** plersch (at) diw.de  
-**Phone:** +49 (0)30 2093 66577
+**Phone:** +49 (0) 30 89789 378
