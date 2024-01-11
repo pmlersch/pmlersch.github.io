@@ -7,6 +7,6 @@ I am Associate Professor of Sociology of Social Policy in the [Department of Soc
 
 My work is at the intersection of sociology, demography, and social policy analysis. In my research, I address how social inequalities emerge over and between the life courses of individuals in divergent and changing institutional contexts. I mainly focus on demographic events and the family as causes of inequalities in wealth and employment outcomes. My research often addresses gender inequalities. I mostly adopt a longitudinal analytical perspective using long-running panel surveys. 
 
-My work was published in outlets such as American Sociological Review, Demography, European Sociological Review, Journal of Marriage and Family, and Social Forces. My research has been supported by the German Research Foundation, the German Academic Exchange Service, and the Einstein Foundation Berlin.
+My work was published in outlets such as American Sociological Review, Demography, European Sociological Review, Journal of Marriage and Family, and Social Forces. My research has been supported by the European Research Council, the German Research Foundation, the Volkswagen Foundation, the Einstein Foundation Berlin, and other funding bodies.
 
 See my full CV [here](https://box.hu-berlin.de/f/9f15157304624b29b2c9/?dl=1).
