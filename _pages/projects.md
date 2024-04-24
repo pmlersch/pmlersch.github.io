@@ -45,7 +45,7 @@ Secondary data from the Socio-economic Panel (SOEP) for five waves are used. A s
 
 The project creates new knowledge about the rigidity of the German social structure and the influence of socio-demographic processes on the reproduction of inequality over time. This knowledge can generate important social policy implications.
 
-*Funding agency*: DFG
+*Funding agency*: German Research Foundation (DFG)
 
 *Funding period*: 2021-2026
 
@@ -59,6 +59,6 @@ To test this, the accumulation of personal wealth is examined from multiple pers
 
 Thereby, this timely and relevant project contributes to a better understanding of women’s and men’s unequal life chances due to wealth disparities.
 
-*Funding agency*: DFG
+*Funding agency*: German Research Foundation (DFG)
 
 *Funding period*: 2017-2023 (completed)
