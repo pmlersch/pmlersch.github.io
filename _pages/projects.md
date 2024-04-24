@@ -1,6 +1,7 @@
 ---
 permalink: /projects/
 title: "Projects"
+classes: wide
 ---
 
 ## Understanding Trajectories of Wealth Accumulation and Their Variability (WEALTHTRAJECT)
