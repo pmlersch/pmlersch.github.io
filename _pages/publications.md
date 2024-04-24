@@ -110,3 +110,7 @@ Lersch, Philipp M. (2014): Geburten und die Wohnraumversorgung von Familien: Anp
 #### 2013
 	
 Lersch, Philipp M. (2013): Place Stratification or Spatial Assimilation? Neighbourhood Quality Changes after Residential Mobility for Migrants in Germany. *Urban Studies* 50 (5). 1011--1029. doi: [10.1177/0042098012464403](http://dx.doi.org/10.1177/0042098012464403) 
+
+## Monograph
+
+Lersch, Philipp M. (2014): Residential Relocations and their Consequences: Life course effects in England and Germany. Wiesbaden: Springer VS. doi: [10.1007/978-3-658-04257-8](http://dx.doi.org/10.1007/978-3-658-04257-8) 
