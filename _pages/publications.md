@@ -8,7 +8,7 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Journal articles
 
-#### Fortcoming
+#### Forthcoming
 
 Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (Forthcoming): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review*.
 
