@@ -8,6 +8,10 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Journal articles
 
+#### Fortcoming
+
+Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (Forthcoming): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review*.
+
 #### 2023
 
 Colombarolli, Claudia & Lersch, Philipp M. (2023): Atypical Work, Financial Assets, and Asset Poverty in Germany. *Research in Social Stratification and Mobility*. doi: [10.1016/j.rssm.2023.100803](https://doi.org/10.1016/j.rssm.2023.100803)
