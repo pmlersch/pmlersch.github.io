@@ -72,7 +72,7 @@ author:
       icon: "fa fa-link"
       url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.619969.en"
     - label: "Bluesky"
-      icon: "fa fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/pmlersch.bsky.social"  
     - label: "Strava"
       icon: "fab fa-strava"
