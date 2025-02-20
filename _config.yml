@@ -18,7 +18,7 @@ email: plersch@diw.de
 description: >- # this means to ignore newlines until "baseurl:"
   Website of Philipp M. Lersch who is a sociologist at DIW Berlin/SOEP and Humboldt-Universität zu Berlin.
 github_username: pmlersch
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
@@ -71,6 +71,9 @@ author:
     - label: "Institutional website"
       icon: "fa fa-link"
       url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.619969.en"
+    - label: "Bluesky"
+      icon: "fa fa-bluesky"
+      url: "https://bsky.app/profile/pmlersch.bsky.social"  
     - label: "Strava"
       icon: "fab fa-strava"
       url: "https://strava.com/athletes/3932412"
