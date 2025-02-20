@@ -80,15 +80,6 @@ author:
 
 footer:
   links:
-    - label: "OSF"
-      icon: "ai ai-osf-square"
-      url: "https://osf.io/y29xd/"      
-    - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: "http://orcid.org/0000-0003-3863-8301"  
-    - label: "Institutional website"
-      icon: "fa fa-link"
-      url: "https://www.diw.de/sixcms/detail.php?id=diw_01.c.619969.en"
     
 defaults:
   # _posts
