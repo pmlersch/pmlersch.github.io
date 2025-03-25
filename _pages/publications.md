@@ -10,6 +10,8 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 #### 2025
 
+Breznau, Nate, ... Lersch, Philipp M. [total of 185 authors]  (2025): The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science* 12 (3). 241038. doi:[10.1098/rsos.241038](https://doi.org/10.1098/rsos.241038).
+
 Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (2025): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review* published online. doi:[10.1093/ser/mwaf013](https://doi.org/10.1093/ser/mwaf013)
 
 
