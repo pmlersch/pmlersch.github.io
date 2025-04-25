@@ -8,6 +8,10 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Journal articles
 
+#### Forthcoming
+
+Lersch, Philipp M. (Forthcoming): Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany. *European Journal of Population*.
+
 #### 2025
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 185 authors]  (2025): The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science* 12 (3). 241038. doi: [10.1098/rsos.241038](https://doi.org/10.1098/rsos.241038)
