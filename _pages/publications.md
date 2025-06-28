@@ -6,6 +6,9 @@ classes: wide
 
 If you have problems accessing any of these publications, please [contact](/contact) me.
 
+## Pre-prints
+Klein, Lisa, Lersch, Philipp M., Longmuir, Max (2025) Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. doi: [10.31235/osf.io/jh5xp_v1](https://doi.org/10.31235/osf.io/jh5xp_v1)
+
 ## Journal articles
 
 #### Forthcoming
