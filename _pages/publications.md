@@ -20,7 +20,7 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 185 authors]  (2025): The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science* 12 (3). 241038. doi: [10.1098/rsos.241038](https://doi.org/10.1098/rsos.241038)
 
-Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (2025): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review* published online. doi: [10.1093/ser/mwaf013](https://doi.org/10.1093/ser/mwaf013)
+Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (2025): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review* 23 (2). 591--620. doi: [10.1093/ser/mwaf013](https://doi.org/10.1093/ser/mwaf013)
 
 Lersch, Philipp M. (2025): Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany. *European Journal of Population* published online. doi: [10.1007/s10680-025-09738-6](https://doi.org/10.1007/s10680-025-09738-6)
 
