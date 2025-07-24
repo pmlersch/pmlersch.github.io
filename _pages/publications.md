@@ -22,7 +22,8 @@ Breznau, Nate, ... Lersch, Philipp M. ... [total of 185 authors]  (2025): The Re
 
 Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (2025): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review* 23 (2). 591--620. doi: [10.1093/ser/mwaf013](https://doi.org/10.1093/ser/mwaf013)
 
-Lersch, Philipp M. (2025): Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany. *European Journal of Population* published online. doi: [10.1007/s10680-025-09738-6](https://doi.org/10.1007/s10680-025-09738-6)
+Lersch, Philipp M. (2025): Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany. *European Journal of Population* published online. doi: [10.1007/s10680-025-09738-6](https://doi.org/10.1007/s10680-025-09738-6) \| [Replication files](https://doi.org/10.17605/OSF.IO/56R4E)
+
 
 #### 2023
 
