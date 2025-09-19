@@ -3,10 +3,10 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Philipp M. Lersch  
-German Institute for Economic research (DIW Berlin)  
-Socio-economic Panel 
-Mohrenstraße 58
+Philipp M. Lersch
+German Institute for Economic research (DIW Berlin)
+Socio-economic Panel
+Anton-Wilhelm-Amo-Straße 58
 10117 Berlin
 Germany 
 ___________________________________
