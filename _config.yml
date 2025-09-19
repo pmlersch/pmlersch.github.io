@@ -107,3 +107,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Add custom CSS
+custom_css: "/assets/css/custom.css"
