@@ -1,6 +1,3 @@
 .author__avatar img {
   border-radius: 50% !important;
-  width: 200px !important;
-  height: 200px !important; /* Ensures fixed size, change as needed */
-  object-fit: cover; /* Keeps image cropped */
 }
