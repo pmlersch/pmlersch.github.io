@@ -10,13 +10,15 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (2025) Trends in relative and absolute mobility of homeownership in Europe. doi: [10.31219/osf.io/zdu2n_v1](https://doi.org/10.31219/osf.io/zdu2n_v1)
 
-Klein, Lisa, Lersch, Philipp M. & Longmuir, Max (2025): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. doi: [10.31235/osf.io/jh5xp_v1](https://doi.org/10.31235/osf.io/jh5xp_v1)
-
-Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2025): Consolidated Trajectories? Social Class and Earnings Growth over the Life Course. doi:  [10.31235/osf.io/k6atw_v1](https://doi.org/10.31235/osf.io/k6atw_v1)
+Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
 Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealth Homogamy in Couples. doi: [10.31235/osf.io/yrjpf](https://doi.org/10.31235/osf.io/yrjpf)
 
 ## Journal articles
+
+#### Forthcoming
+
+Klein, Lisa, Lersch, Philipp M. & Longmuir, Max (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1)
 
 #### 2025
 
