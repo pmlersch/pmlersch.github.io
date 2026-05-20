@@ -12,7 +12,7 @@ Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (2025): Trends in relative
 
 Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
-Schnitzlein, Daniel D., Lersch, Philipp M., Wiborg, Øyvind N. (2026): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. IZA Discussion Paper, 18596. [Link](https://docs.iza.org/dp18596.pdf)
+Schnitzlein, Daniel D., Lersch, Philipp M. & Wiborg, Øyvind N. (2026): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. IZA Discussion Paper, 18596. [Link](https://docs.iza.org/dp18596.pdf)
 
 Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealth Homogamy in Couples. doi: [10.31235/osf.io/yrjpf](https://doi.org/10.31235/osf.io/yrjpf)
 
