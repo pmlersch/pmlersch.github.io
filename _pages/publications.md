@@ -22,6 +22,8 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 
 Klein, Lisa, Lersch, Philipp M. & Longmuir, Max (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1)
 
+Lam, Anastasia & Lersch, Philipp M. (Forthcoming): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *Journal of Gerontology: Social Sciences*.
+
 #### 2025
 
 Breznau, Nate, ... Lersch, Philipp M. ... [total of 185 authors]  (2025): The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science* 12 (3). 241038. doi: [10.1098/rsos.241038](https://doi.org/10.1098/rsos.241038)
