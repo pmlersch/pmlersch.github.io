@@ -22,7 +22,9 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 
 Klein, Lisa, Lersch, Philipp M. & Longmuir, Max (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1) \| [Replication files](https://doi.org/10.17605/OSF.IO/P8FGM)
 
-Lam, Anastasia & Lersch, Philipp M. (Forthcoming): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *Journal of Gerontology: Social Sciences*. \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
+#### 2026
+
+Lam, Anastasia & Lersch, Philipp M. (Forthcoming): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *Journal of Gerontology: Social Sciences*. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115) \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
 
 #### 2025
 
