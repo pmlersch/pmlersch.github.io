@@ -20,7 +20,7 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 
 #### Forthcoming
 
-Klein, Lisa, Lersch, Philipp M. & Longmuir, Max (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1) \| [Replication files](https://doi.org/10.17605/OSF.IO/P8FGM)
+Klein, Lisa, Lersch, Philipp M. & Longmuir, Maximilian (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1) \| [Replication files](https://doi.org/10.17605/OSF.IO/P8FGM)
 
 #### 2026
 
