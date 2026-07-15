@@ -24,6 +24,8 @@ Klein, Lisa, Lersch, Philipp M. & Longmuir, Maximilian (Forthcoming): Wealth Ine
 
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
 
+Schulz, Wiebke & Lersch, Philipp M. (Forthcoming): Social Origin, the Class Ceiling in Earnings, and Job Task Segregation: Evidence from Germany. *Social Science Research*.
+
 #### 2026
 
 Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* published online. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115) \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
