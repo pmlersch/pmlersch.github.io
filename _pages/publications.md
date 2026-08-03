@@ -8,8 +8,6 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Work in progress
 
-Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (2025): Trends in relative and absolute mobility of homeownership in Europe. doi: [10.31219/osf.io/zdu2n_v1](https://doi.org/10.31219/osf.io/zdu2n_v1)
-
 Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
 Schnitzlein, Daniel D., Lersch, Philipp M. & Wiborg, Øyvind N. (2026): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. IZA Discussion Paper, 18596. [Link](https://docs.iza.org/dp18596.pdf)
@@ -20,13 +18,15 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 
 #### Forthcoming
 
+Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (Forthcoming): Are the children of homeowners increasingly advantaged? Trends in relative and absolute mobility of homeownership in Europe. *European Sociological Review*. doi: [10.1093/esr/jcag026](https://doi.org/10.1093/esr/jcag026) \| [Preprint](https://doi.org/10.31219/osf.io/zdu2n_v1)
+
 Klein, Lisa, Lersch, Philipp M. & Longmuir, Maximilian (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1) \| [Replication files](https://doi.org/10.17605/OSF.IO/P8FGM)
 
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
 
 #### 2026
 
-Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* published online. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115) \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
+Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* published online. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115).\| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
 
 #### 2025
 
@@ -35,7 +35,6 @@ Breznau, Nate, ... Lersch, Philipp M. ... [total of 185 authors]  (2025): The Re
 Kapelle, Nicole, Frémeaux, Nicolas, Lersch, Philipp M. & Leturcq, Marion (2025): A Cohabitation Wealth Premium for Women and Men: Considering the Regulatory Framework and Normative Acceptance in France and Germany. *Socio-Economic Review* 23 (2). 591--620. doi: [10.1093/ser/mwaf013](https://doi.org/10.1093/ser/mwaf013)
 
 Lersch, Philipp M. (2025): Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany. *European Journal of Population* 41 (16). 1-24. doi: [10.1007/s10680-025-09738-6](https://doi.org/10.1007/s10680-025-09738-6) \| [Replication files](https://doi.org/10.17605/OSF.IO/56R4E)
-
 
 #### 2023
 
