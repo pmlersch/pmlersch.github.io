@@ -10,8 +10,6 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
-Schnitzlein, Daniel D., Lersch, Philipp M. & Wiborg, Øyvind N. (2026): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. IZA Discussion Paper, 18596. [Link](https://docs.iza.org/dp18596.pdf)
-
 Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealth Homogamy in Couples. doi: [10.31235/osf.io/yrjpf](https://doi.org/10.31235/osf.io/yrjpf)
 
 ## Journal articles
@@ -24,11 +22,13 @@ Klein, Lisa, Lersch, Philipp M. & Longmuir, Maximilian (Forthcoming): Wealth Ine
 
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
 
+Schnitzlein, Daniel D., Lersch, Philipp M. & Wiborg, Øyvind N. (Forthcoming): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. *Research in Social Stratification and Mobility*. [Preprint](https://docs.iza.org/dp18596.pdf)
+
 #### 2026
 
-Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* published online. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115).\| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
+Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* published online. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115) \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
 
-Schulz, Wiebke & Lersch, Philipp M. (2026): Social Origin, the Class Ceiling in Earnings, and Job Task Segregation: Evidence from Germany. *Social Science Research* 139, 103406. doi: [10.1016/j.ssresearch.2026.103406](https://doi.org/10.1016/j.ssresearch.2026.103406)
+Schulz, Wiebke & Lersch, Philipp M. (2026): Social Origin, the Class Ceiling in Earnings, and Job Task Segregation: Evidence from Germany. *Social Science Research* 139. 103406. doi: [10.1016/j.ssresearch.2026.103406](https://doi.org/10.1016/j.ssresearch.2026.103406)
 
 #### 2025
 
