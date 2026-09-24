@@ -26,7 +26,7 @@ Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap t
 
 Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* 81 (9). gbag115. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115) \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
 
-Schnitzlein, Daniel D., Lersch, Philipp M. & Wiborg, Øyvind N. (2026): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. *Research in Social Stratification and Mobility*. 101206. doi: [10.1016/j.rssm.2026.101206](https://doi.org/10.1016/j.rssm.2026.101206) \| [Preprint](https://docs.iza.org/dp18596.pdf)
+Schnitzlein, Daniel D., Lersch, Philipp M. & Wiborg, Øyvind N. (2026): Intragenerational Mobility in Wealth in Germany, Norway, and Britain: Descriptive Evidence. *Research in Social Stratification and Mobility*. 101206. doi: [10.1016/j.rssm.2026.101206](https://doi.org/10.1016/j.rssm.2026.101206) \| [Preprint](https://docs.iza.org/dp18596.pdf) \| [Replication files](https://doi.org/10.17605/OSF.IO/PRWY7)
 
 Schulz, Wiebke & Lersch, Philipp M. (2026): Social Origin, the Class Ceiling in Earnings, and Job Task Segregation: Evidence from Germany. *Social Science Research* 139. 103406. doi: [10.1016/j.ssresearch.2026.103406](https://doi.org/10.1016/j.ssresearch.2026.103406)
 
