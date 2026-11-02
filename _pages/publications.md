@@ -18,11 +18,11 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 
 Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (Forthcoming): Are the children of homeowners increasingly advantaged? Trends in relative and absolute mobility of homeownership in Europe. *European Sociological Review*. doi: [10.1093/esr/jcag026](https://doi.org/10.1093/esr/jcag026) \| [Preprint](https://doi.org/10.31219/osf.io/zdu2n_v1)
 
-Klein, Lisa, Lersch, Philipp M. & Longmuir, Maximilian (Forthcoming): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography*. [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1) \| [Replication files](https://doi.org/10.17605/OSF.IO/P8FGM)
-
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
 
 #### 2026
+
+Klein, Lisa, Lersch, Philipp M. & Longmuir, Maximilian (2026): Wealth Inequality among Families in a Changing Demographic Landscape: Evidence from Germany, 1988–2017. *Demography* 12877885. doi: [10.1215/00703370-12877885](https://doi.org/10.1215/00703370-12877885) \| [Preprint](https://doi.org/10.31235/osf.io/jh5xp_v1) \| [Replication files](https://doi.org/10.17605/OSF.IO/P8FGM)
 
 Lam, Anastasia & Lersch, Philipp M. (2026): Diffusion of cumulative advantage? How wealth and health trajectories co-evolve across the life course among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* 81 (9). gbag115. doi: [10.1093/geronb/gbag115](https://doi.org/10.1093/geronb/gbag115) \| [Replication files](https://doi.org/10.17605/OSF.IO/J6G7M)
 
