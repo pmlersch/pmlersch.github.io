@@ -8,6 +8,8 @@ If you have problems accessing any of these publications, please [contact](/cont
 
 ## Work in progress
 
+Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (2026): Wealth among Siblings in Germany. *IZA Discussion Papers* 19035, IZA Network @ LISER. [Preprint](https://docs.iza.org/dp19035.pdf)
+
 Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
 Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealth Homogamy in Couples. doi: [10.31235/osf.io/yrjpf](https://doi.org/10.31235/osf.io/yrjpf)
