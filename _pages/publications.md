@@ -7,9 +7,7 @@ classes: wide
 If you have problems accessing any of these publications, please [contact](/contact) me.
 
 ## Work in progress
-
-Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (2026): Wealth among Siblings in Germany. *IZA Discussion Papers* 19035, IZA Network @ LISER. [Preprint](https://docs.iza.org/dp19035.pdf)
-
+
 Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
 Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealth Homogamy in Couples. doi: [10.31235/osf.io/yrjpf](https://doi.org/10.31235/osf.io/yrjpf)
@@ -21,6 +19,8 @@ Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealt
 Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (Forthcoming): Are the children of homeowners increasingly advantaged? Trends in relative and absolute mobility of homeownership in Europe. *European Sociological Review*. doi: [10.1093/esr/jcag026](https://doi.org/10.1093/esr/jcag026) \| [Preprint](https://doi.org/10.31219/osf.io/zdu2n_v1)
 
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
+
+Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (Forthcoming): Wealth among Siblings in Germany. *European Sociological Review*. [Preprint](https://docs.iza.org/dp19035.pdf)
 
 #### 2026
 
