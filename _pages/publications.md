@@ -7,7 +7,9 @@ classes: wide
 If you have problems accessing any of these publications, please [contact](/contact) me.
 
 ## Work in progress
-
+
+
+
 Lersch, Philipp M., Trinh, Nhat An & Kaiser, Caspar (2026): One Class, Many Trajectories? On the Similarity of Wage Mobility Within Occupation-Based Classes. doi:  [10.31235/osf.io/k6atw_v2](https://doi.org/10.31235/osf.io/k6atw_v2)
 
 Trinh, Nhat An, Lersch, Philipp M. & Schunck, Reinhard (2023): Dynamics of Wealth Homogamy in Couples. doi: [10.31235/osf.io/yrjpf](https://doi.org/10.31235/osf.io/yrjpf)
@@ -20,7 +22,7 @@ Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (Forthcoming): Are the chi
 
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
 
-Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (Forthcoming): Wealth among Siblings in Germany. *European Sociological Review*. [Preprint](https://docs.iza.org/dp19035.pdf)
+Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (Forthcoming): Wealth among Siblings in Germany. *European Sociological Review*. [Preprint](https://docs.iza.org/dp19035.pdf) | [Replication files](https://doi.org/10.5281/zenodo.23394215)
 
 #### 2026
 
