@@ -22,7 +22,7 @@ Bedük, Selçuk, Benassi, Enrico & Lersch, Philipp M. (Forthcoming): Are the chi
 
 Lersch, Philipp M., Leturcq, Marion & Sesser, Franziska (Forthcoming): Roadmap to Wealth: Mapping Analytical Choices Through a Multiverse Analysis of Wealth Returns to Education. *methods, data, analyses*.
 
-Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (Forthcoming): Wealth among Siblings in Germany. *European Sociological Review*. [Preprint](https://docs.iza.org/dp19035.pdf) | [Replication files](https://doi.org/10.5281/zenodo.23394215)
+Lersch, Philipp M., Schnitzlein, Daniel D., Pfeffer, Fabian T. & Grabka, Markus M. (Forthcoming): Wealth among Siblings in Germany. *European Sociological Review*. [Preprint](https://docs.iza.org/dp19035.pdf) \| [Replication files](https://doi.org/10.5281/zenodo.23394215)
 
 #### 2026
 
